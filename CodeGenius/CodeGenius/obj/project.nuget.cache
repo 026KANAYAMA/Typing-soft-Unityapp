@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fzd5toMtAl4vruQbuPJN1pY9BbaF8rmvz0ALqZHdFN1ACMkuQ0r67S2yiBJq4BXDGeyuUbCLYToz/bKHldcvQg==",
+  "dgSpecHash": "ZVfZ9CpmYdYQH10pI6nKkkALKw7YUA7CHb92EtGraz07T4YYiWOSxsc3XShH0vXqepE/ELD2+P8DEd+hijXtsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KANAYAMA\\OneDrive - 静岡理工科大学\\NLP\\Typing-soft\\CodeGenius\\CodeGenius\\CodeGenius.csproj",
+  "projectFilePath": "C:\\Users\\KANAYAMA\\OneDrive - 静岡理工科大学\\NLP\\Typing-soft\\Typing-soft-Unityapp\\CodeGenius\\CodeGenius\\CodeGenius.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KANAYAMA\\.nuget\\packages\\mecab.dotnet\\0.0.40\\mecab.dotnet.0.0.40.nupkg.sha512",
     "C:\\Users\\KANAYAMA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"

@@ -1,5 +1,8 @@
 ﻿using System;
 using MeCab;
+using System.IO;
+using System.Text;
+
 
 static class UseMecab
 {
@@ -22,6 +25,21 @@ static class UseMecab
     }
 }
 
+
+static class AccessFile
+{
+    public static string getFile()
+    {
+        StreamReader sr = new StreamReader("sample-input.txt", Encoding.GetEncoding("UTF-8"));
+        string str = sr.ReadToEnd();
+        sr.Close();
+
+
+        return str;
+    } 
+}
+
+
 /// <summary>
 /// Test用Class
 /// </summary>
@@ -33,6 +51,9 @@ static class Test
     static void Main()
     {
         UseMecab.excute();
+        string str = AccessFile.getFile();
+        Console.WriteLine($"ファイルから受け取ったのは「{str}」です。");
+
     }
 }
 

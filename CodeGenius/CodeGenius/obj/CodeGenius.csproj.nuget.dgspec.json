@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KANAYAMA\\OneDrive - 静岡理工科大学\\NLP\\Typing-soft\\CodeGenius\\CodeGenius\\CodeGenius.csproj": {}
+    "C:\\Users\\KANAYAMA\\OneDrive - 静岡理工科大学\\NLP\\Typing-soft\\Typing-soft-Unityapp\\CodeGenius\\CodeGenius\\CodeGenius.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KANAYAMA\\OneDrive - 静岡理工科大学\\NLP\\Typing-soft\\CodeGenius\\CodeGenius\\CodeGenius.csproj": {
+    "C:\\Users\\KANAYAMA\\OneDrive - 静岡理工科大学\\NLP\\Typing-soft\\Typing-soft-Unityapp\\CodeGenius\\CodeGenius\\CodeGenius.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KANAYAMA\\OneDrive - 静岡理工科大学\\NLP\\Typing-soft\\CodeGenius\\CodeGenius\\CodeGenius.csproj",
+        "projectUniqueName": "C:\\Users\\KANAYAMA\\OneDrive - 静岡理工科大学\\NLP\\Typing-soft\\Typing-soft-Unityapp\\CodeGenius\\CodeGenius\\CodeGenius.csproj",
         "projectName": "CodeGenius",
-        "projectPath": "C:\\Users\\KANAYAMA\\OneDrive - 静岡理工科大学\\NLP\\Typing-soft\\CodeGenius\\CodeGenius\\CodeGenius.csproj",
+        "projectPath": "C:\\Users\\KANAYAMA\\OneDrive - 静岡理工科大学\\NLP\\Typing-soft\\Typing-soft-Unityapp\\CodeGenius\\CodeGenius\\CodeGenius.csproj",
         "packagesPath": "C:\\Users\\KANAYAMA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KANAYAMA\\OneDrive - 静岡理工科大学\\NLP\\Typing-soft\\CodeGenius\\CodeGenius\\obj\\",
+        "outputPath": "C:\\Users\\KANAYAMA\\OneDrive - 静岡理工科大学\\NLP\\Typing-soft\\Typing-soft-Unityapp\\CodeGenius\\CodeGenius\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
