@@ -1,0 +1,65 @@
+# データ取得
+import wikipedia
+wikipedia.set_lang("ja")
+
+list_w = ['日本', '静岡県', '数学', 'プログラミング', '経済', '小説', 'ローマ']
+
+content_list = []
+for wd in list_w :
+    print(wd)
+    content = wikipedia.page(wd, auto_suggest=False).content
+    content_list.append(content)
+
+
+# 形態素解析
+from janome.tokenizer import Tokenizer
+t = Tokenizer()
+
+def tokenize(text,partof) :
+    return [token.base_form for token in t.tokenize(text)if token.part_of_speech.split(',')[0] in [partof]]
+
+
+import re
+
+rm_list = ['==', '=', '。', '-', '.', '_', ':', ';', '±', '/', '_','％', '%', '」' , '「', '(', ')' ]
+
+
+def text_cleaning(pos) :
+    words_list = []
+    
+    for content in content_list : 
+        words = ' '.join(tokenize(content, pos))
+        
+        for i in rm_list :
+            words = words.replace(i, '')    
+            
+        words = re.sub('\d+', '',words)
+        words_list.append(words)
+        
+    for i in range(len(words_list)) :
+        wl = words_list[i].split()
+        wl.append(wl)
+    return wl
+
+
+from random import randint
+
+word_cnt=[]
+wordNum = 20
+
+wl1 = text_cleaning("形容詞")
+wl2 = text_cleaning("名詞")
+
+while(len(word_cnt)<= wordNum) :
+    
+    # -1で良いはずだが、たまにエラーになるので-2
+    idx1 = randint(0,len(wl1)-2)
+    idx2 =randint(0,len(wl2)-2)
+    
+    if wl1[idx1]!="%" and len(wl1[idx1])>=2 :
+        if wl2[idx2]!="%" and len(wl2[idx2])>= 2 :
+            word_cnt.append(wl1[idx1]+wl2[idx2])
+
+# 出力 (ランダムな名詞と形容詞の組み合わせ)
+for con_word in word_cnt :
+    print(con_word)
