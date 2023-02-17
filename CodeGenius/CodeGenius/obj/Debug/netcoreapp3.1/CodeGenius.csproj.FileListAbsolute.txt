@@ -1,0 +1,14 @@
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\CodeGenius\CodeGenius\bin\Debug\netcoreapp3.1\CodeGenius.exe
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\CodeGenius\CodeGenius\bin\Debug\netcoreapp3.1\CodeGenius.deps.json
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\CodeGenius\CodeGenius\bin\Debug\netcoreapp3.1\CodeGenius.runtimeconfig.json
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\CodeGenius\CodeGenius\bin\Debug\netcoreapp3.1\CodeGenius.runtimeconfig.dev.json
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\CodeGenius\CodeGenius\bin\Debug\netcoreapp3.1\CodeGenius.dll
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\CodeGenius\CodeGenius\bin\Debug\netcoreapp3.1\CodeGenius.pdb
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\CodeGenius\CodeGenius\obj\Debug\netcoreapp3.1\CodeGenius.csproj.AssemblyReference.cache
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\CodeGenius\CodeGenius\obj\Debug\netcoreapp3.1\CodeGenius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\CodeGenius\CodeGenius\obj\Debug\netcoreapp3.1\CodeGenius.AssemblyInfoInputs.cache
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\CodeGenius\CodeGenius\obj\Debug\netcoreapp3.1\CodeGenius.AssemblyInfo.cs
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\CodeGenius\CodeGenius\obj\Debug\netcoreapp3.1\CodeGenius.csproj.CoreCompileInputs.cache
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\CodeGenius\CodeGenius\obj\Debug\netcoreapp3.1\CodeGenius.dll
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\CodeGenius\CodeGenius\obj\Debug\netcoreapp3.1\CodeGenius.pdb
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\CodeGenius\CodeGenius\obj\Debug\netcoreapp3.1\CodeGenius.genruntimeconfig.cache

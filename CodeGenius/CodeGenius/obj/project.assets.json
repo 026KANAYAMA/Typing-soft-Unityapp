@@ -1,0 +1,152 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "MeCab.DotNet/0.0.40": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/MeCab.DotNet.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/MeCab.DotNet.dll": {}
+        },
+        "build": {
+          "build/MeCab.DotNet.props": {},
+          "build/MeCab.DotNet.targets": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/MeCab.DotNet.props": {},
+          "buildMultiTargeting/MeCab.DotNet.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MeCab.DotNet/0.0.40": {
+      "sha512": "PeH8Sexp1wIGkmfC3AoMp6KWYuEvuUAO1UgiVC4LEiHrRfW5n/SrPxAs+GBdIprwC/dcnceZm/cyPp4mXpzymw==",
+      "type": "package",
+      "path": "mecab.dotnet/0.0.40",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "MeCab.DotNet-100.png",
+        "build/MeCab.DotNet.props",
+        "build/MeCab.DotNet.targets",
+        "buildMultiTargeting/MeCab.DotNet.props",
+        "buildMultiTargeting/MeCab.DotNet.targets",
+        "content/dic/README.txt",
+        "content/dic/char.bin",
+        "content/dic/dicrc",
+        "content/dic/matrix.bin",
+        "content/dic/sys.dic",
+        "content/dic/unk.dic",
+        "lib/InPackage",
+        "lib/net20/MeCab.DotNet.dll",
+        "lib/net20/MeCab.DotNet.pdb",
+        "lib/net20/MeCab.DotNet.xml",
+        "lib/net35/MeCab.DotNet.dll",
+        "lib/net35/MeCab.DotNet.pdb",
+        "lib/net35/MeCab.DotNet.xml",
+        "lib/net40/MeCab.DotNet.dll",
+        "lib/net40/MeCab.DotNet.pdb",
+        "lib/net40/MeCab.DotNet.xml",
+        "lib/net45/MeCab.DotNet.dll",
+        "lib/net45/MeCab.DotNet.pdb",
+        "lib/net45/MeCab.DotNet.xml",
+        "lib/net5.0/MeCab.DotNet.dll",
+        "lib/net5.0/MeCab.DotNet.pdb",
+        "lib/net5.0/MeCab.DotNet.xml",
+        "lib/netstandard1.3/MeCab.DotNet.dll",
+        "lib/netstandard1.3/MeCab.DotNet.pdb",
+        "lib/netstandard1.3/MeCab.DotNet.xml",
+        "lib/netstandard2.0/MeCab.DotNet.dll",
+        "lib/netstandard2.0/MeCab.DotNet.pdb",
+        "lib/netstandard2.0/MeCab.DotNet.xml",
+        "lib/netstandard2.1/MeCab.DotNet.dll",
+        "lib/netstandard2.1/MeCab.DotNet.pdb",
+        "lib/netstandard2.1/MeCab.DotNet.xml",
+        "mecab.dotnet.0.0.40.nupkg.sha512",
+        "mecab.dotnet.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "MeCab.DotNet >= 0.0.40"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\KANAYAMA\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\KANAYAMA\\OneDrive - 静岡理工科大学\\NLP\\Typing-soft\\CodeGenius\\CodeGenius\\CodeGenius.csproj",
+      "projectName": "CodeGenius",
+      "projectPath": "C:\\Users\\KANAYAMA\\OneDrive - 静岡理工科大学\\NLP\\Typing-soft\\CodeGenius\\CodeGenius\\CodeGenius.csproj",
+      "packagesPath": "C:\\Users\\KANAYAMA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\KANAYAMA\\OneDrive - 静岡理工科大学\\NLP\\Typing-soft\\CodeGenius\\CodeGenius\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\KANAYAMA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "MeCab.DotNet": {
+            "target": "Package",
+            "version": "[0.0.40, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
