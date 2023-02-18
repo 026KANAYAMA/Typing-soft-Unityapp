@@ -1,3 +1,5 @@
-## It's using below OSS.
-## Mecab.DotNet
-## https://github.com/kekyo/MeCab.DotNet
+## This app is still under developing.
+
+## CodeGenius is a first version of text generation.
+## CodePirate is a secpmd versopm of text generation.
+

@@ -1,0 +1,16 @@
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\Typing-soft-Unityapp\CodePirate\CodePirate\obj\Debug\net5.0\CodePirate.csproj.AssemblyReference.cache
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\Typing-soft-Unityapp\CodePirate\CodePirate\obj\Debug\net5.0\CodePirate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\Typing-soft-Unityapp\CodePirate\CodePirate\obj\Debug\net5.0\CodePirate.AssemblyInfoInputs.cache
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\Typing-soft-Unityapp\CodePirate\CodePirate\obj\Debug\net5.0\CodePirate.AssemblyInfo.cs
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\Typing-soft-Unityapp\CodePirate\CodePirate\obj\Debug\net5.0\CodePirate.csproj.CoreCompileInputs.cache
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\Typing-soft-Unityapp\CodePirate\CodePirate\bin\Debug\net5.0\CodePirate.exe
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\Typing-soft-Unityapp\CodePirate\CodePirate\bin\Debug\net5.0\CodePirate.deps.json
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\Typing-soft-Unityapp\CodePirate\CodePirate\bin\Debug\net5.0\CodePirate.runtimeconfig.json
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\Typing-soft-Unityapp\CodePirate\CodePirate\bin\Debug\net5.0\CodePirate.runtimeconfig.dev.json
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\Typing-soft-Unityapp\CodePirate\CodePirate\bin\Debug\net5.0\CodePirate.dll
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\Typing-soft-Unityapp\CodePirate\CodePirate\bin\Debug\net5.0\ref\CodePirate.dll
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\Typing-soft-Unityapp\CodePirate\CodePirate\bin\Debug\net5.0\CodePirate.pdb
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\Typing-soft-Unityapp\CodePirate\CodePirate\obj\Debug\net5.0\CodePirate.dll
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\Typing-soft-Unityapp\CodePirate\CodePirate\obj\Debug\net5.0\ref\CodePirate.dll
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\Typing-soft-Unityapp\CodePirate\CodePirate\obj\Debug\net5.0\CodePirate.pdb
+C:\Users\KANAYAMA\OneDrive - 静岡理工科大学\NLP\Typing-soft\Typing-soft-Unityapp\CodePirate\CodePirate\obj\Debug\net5.0\CodePirate.genruntimeconfig.cache

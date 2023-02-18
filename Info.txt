@@ -1,0 +1,3 @@
+CodeGenius is a first version of text generation.
+
+CodePirate is a second version of text generation.
