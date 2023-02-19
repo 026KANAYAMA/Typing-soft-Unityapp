@@ -77,11 +77,12 @@ public class TextGeneration
         string strHiraNoun = AccessFiles(nounHiraPath);
         string strHiraAdj = AccessFiles(adjHiraPath);
 
-        var listNoun = strNoun.Split(',').Cast<string>().ToList();
-        var listAdj = strAdj.Split(',').Cast<string>().ToList();
-        var listHiraNoun = strHiraNoun.Split(',').Cast<string>().ToList();
-        var listHiraAdj = strHiraAdj.Split(',').Cast<string>().ToList();
-
+        // listの10001番目に正体不明の空文字列が足されているのでGetRangeで10000番目まで取得するようにしている
+        var listNoun = (strNoun.Split(',').Cast<string>().ToList()).GetRange(0,10000);
+        var listAdj = (strAdj.Split(',').Cast<string>().ToList()).GetRange(0,10000);
+        var listHiraNoun = (strHiraNoun.Split(',').Cast<string>().ToList()).GetRange(0,10000);
+        var listHiraAdj = (strHiraAdj.Split(',').Cast<string>().ToList()).GetRange(0,10000);
+      
         var listCon = RandomConText(listNoun, listAdj, listHiraNoun, listHiraAdj);
 
         return listCon;
